@@ -1,3 +1,7 @@
+## To fix bugs follow this doc : [Flutter-ICP Integration](https://docs.google.com/document/d/16VyvNnHc3Oh3in9qiF9vf3A0JQ8vGGryaR9VLn5w3h0/edit?usp=sharing)
+
+## Reference repo : https://github.com/AstroxNetwork/agent_dart_examples/tree/main/counter
+
 # counter
 
 A flutter sample app that connects to local canister
